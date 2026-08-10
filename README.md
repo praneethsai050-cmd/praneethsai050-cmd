@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,27&height=220&section=header&text=Praneeth%20Sai&fontSize=55&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,27&height=220&section=header&text=A%20Praneeth%20Sai&fontSize=45&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 
 ## 👨‍💻 About Me
 
-I am an engineering student specialized in **Cybersecurity and Computer Science**, currently pursuing my path at **Jaypee University of Information Technology**. My engineering focus revolves around developing highly secure, production-grade applications integrated with artificial intelligence. Guided by a strong **product engineering mindset**, I thrive at the critical intersection of system hardening, full-stack software development, and machine learning architectures.
+I am **A Praneeth Sai**, an engineering student specialized in **Cybersecurity and Computer Science**, currently pursuing my path at **Jaypee University of Information Technology**. My engineering focus revolves around developing highly secure, production-grade applications integrated with artificial intelligence. Guided by a strong **product engineering mindset**, I thrive at the critical intersection of system hardening, full-stack software development, and machine learning architectures.
 
 - **Currently Specializing In:** Advanced Penetration Testing, Linux Kernel Internals, and Python for Security Automation.  
 - **Core Focus:** Merging structural backend security principles with optimized client-side interfaces.  
