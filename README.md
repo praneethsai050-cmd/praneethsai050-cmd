@@ -1,224 +1,108 @@
-<!-- 1. Animated Header Section -->
 <p align="center">
-  <img src="https://vercel.app" alt="Capsule Render Wave Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,27&height=220&section=header&text=Praneeth%20Sai&fontSize=55&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/denvercoder1/readme-typing-svg">
-    <img src="https://demolab.com" alt="Typing SVG Animation" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=A855F7&center=true&vCenter=true&width=800&lines=BTech+CSE+%E2%80%93+Cyber+Security+%40+JUIT;AI+%26+Data+Science+Enthusiast;KVS+Hackathon+Zonal+3rd+Place;Product+Engineer+in+the+Making" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://shields.io" alt="Academic Badge" />
-  <img src="https://shields.io" alt="Location Badge" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/pranean050-cmd"><img src="https://shields.io" alt="Portfolio Button" /></a>
-  <a href="https://www.linkedin.com/in/a-praneeth-sai-089023289/"><img src="https://shields.io" alt="LinkedIn Button" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://shields.io" alt="Email Button" /></a>
-  <a href="https://github.com/pranean050-cmd"><img src="https://shields.io" alt="GitHub Button" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com" alt="Profile Views Badge" />
-  <img src="https://shields.io" alt="Followers Badge" />
-  <img src="https://shields.io" alt="Stars Badge" />
+  <img src="https://img.shields.io/badge/Location-Ambala%2C%20Haryana%2C%20India-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <a href="https://www.linkedin.com/in/a-praneeth-sai-089023289/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/praneethsai050-cmd">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-<!-- 2. About Section -->
-## 🔮 About Me
+## 👨‍💻 About Me
 
 I am an engineering student specialized in **Cybersecurity and Computer Science**, currently pursuing my path at **Jaypee University of Information Technology**. My engineering focus revolves around developing highly secure, production-grade applications integrated with artificial intelligence. Guided by a strong **product engineering mindset**, I thrive at the critical intersection of system hardening, full-stack software development, and machine learning architectures.
 
-*   🌱 **Currently Specializing In:** Advanced Penetration Testing, Linux Kernel Internals, and Python for Security Automation.
-*   ⚡ **Core Focus:** Merging structural backend security principles with optimized client-side interfaces.
-*   🤝 **Open To:** Enterprise internships, advanced software development, and cross-functional hackathon collaborations.
+- **Currently Specializing In:** Advanced Penetration Testing, Linux Kernel Internals, and Python for Security Automation.  
+- **Core Focus:** Merging structural backend security principles with optimized client-side interfaces.  
+- **Open To:** Enterprise internships, advanced software development, and cross-functional hackathon collaborations.
 
 ---
 
-<!-- 3. Tech Stack Section -->
-## 🛠️ Tech Stack
+## 🛠️ Languages & Core Tools
 
-### 💻 Languages
-<p align="left">
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="C" />
-  <img src="https://shields.io" alt="C++" />
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="HTML5" />
-</p>
-
-### 🎨 Frontend
-<p align="left">
-  <img src="https://shields.io" alt="DOM" />
-  <img src="https://shields.io" alt="UIUX" />
-</p>
-
-### 🗄️ Backend & Databases
-<p align="left">
-  <img src="https://shields.io" alt="LocalStorage" />
-  <img src="https://shields.io" alt="Python Backend" />
-</p>
-
-### ☁️ Cloud, DevOps & Tooling
-<p align="left">
-  <img src="https://shields.io" alt="Linux" />
-  <img src="https://shields.io" alt="Git" />
-  <img src="https://shields.io" alt="Documentation" />
-</p>
+| **Languages** | **Core Tools** |
+| :--- | :--- |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+| ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
 
 ---
 
-<!-- 4. AI/ML Expertise Section -->
-## 🤖 AI / ML Expertise
+## 💼 Key Milestones & Experience
 
-| Domain | Proficiency | Details |
+| Timeline | Initiative | Impact |
 | :--- | :--- | :--- |
-| **Data Science Integration** | Intermediate | Developing analytical systems and executing dynamic pipeline evaluation. |
-| **Prompt Engineering** | Advanced | Context injection and prompt optimizations for Large Language Models. |
-| **Computer Vision Basics** | Familiar | Deploying local biometrics tracking systems for structural context processing. |
+| **Jan 2026** | **KVS Hackathon 1.0 – AI Vidyasetu** | **Zonal 3rd Place** – Built a full-stack web platform integrating a face-capturing system for real-time health & mood analysis. Competed against 100+ teams nationwide, demonstrating rapid prototyping and product engineering under extreme time constraints. |
+| **Apr 2025** | **IIT Madras Certification** | Completed the prestigious 8-week **"Introduction to Data Science and AI"** certification (Centre for Outreach and Digital Education, IIT Madras). Gained a strong foundational command over data analysis, AI fundamentals, and real-world data problem-solving. |
 
 ---
 
-<!-- 5. Featured Projects Section -->
-## 📂 Featured Projects
+## 📂 Featured Project
 
 <details>
-<summary><b>🏅 SchoolSportsHub</b></summary>
-<br>
+<summary><b>🏅 SchoolSportsHub (Click to expand)</b></summary>
 
-> A production-grade web platform engineered for multi-tiered academic athletic scheduling, secure team grouping, and operational metrics telemetry tracking.
+> A web platform designed for inter-school sports match scheduling, team management, and performance tracking with integrated health analytics.
 
-### Architecture & System Evaluation
-
-| Dimension | Specification & Metric Realization |
+| Metric | Details |
 | :--- | :--- |
-| **Stack** | JavaScript, Vanilla HTML5 DOM Architectures, LocalStorage |
-| **Scale** | Multi-tenant school structures supporting parallel institutional workflows |
-| **Performance** | Sub-10ms UI state updates leveraging fully synchronized localized memory targets |
-| **Security** | Sandboxed data frames preventing systemic memory bleeding between sessions |
-| **Impact** | Displaced manually structured legacy spreadsheets for dynamic event scheduling |
-| **Repository** | [View Source Architecture](https://github.com/pranean050-cmd/SchoolSportsHub) |
-
-### Engineering Explanation
-The codebase features a programmatic **face-capturing framework** designed for instant client-side biometric processing to derive mood indicators and baseline health evaluations. By bypassing complex heavy servers, it utilizes optimized memory strategies directly within the browser ecosystem to keep execution clean and responsive.
+| **Stack** | JavaScript, HTML5, CSS3, LocalStorage |
+| **Scale** | Designed for school-level administration (students, coaches, managers) |
+| **Security** | Structurally hardened client-side storage and input sanitization |
+| **Impact** | Streamlined sports operations and introduced health/mood analytics via AI face-capturing |
+| **Repository** | [github.com/praneethsai050-cmd/SchoolSportsHub](https://github.com/praneethsai050-cmd/SchoolSportsHub) |
 
 </details>
 
 ---
 
-<!-- 6. Experience Section -->
-## 💼 Experience
-
-#### Software Engineering & Security Researcher
-**Independent Practice & Open Source Contributions** | *2025 - Present*
-* Deployed and structurally configured security-focused environments to perform targeted penetration assessments.
-* Built robust programmatic systems implementing end-to-end full-stack modern software protocols.
-* Authored technical architecture plans, ensuring optimized developer handoffs and production visibility.
-* `Python` `Penetration Testing` `Linux Systems` `Full Stack Core`
-
----
-
-<!-- 7. Achievements Section -->
-## 🏆 Achievements
+## 🏆 Achievements & Certifications
 
 <p align="center">
-</p>
 
-| Recognition | Details |
+| **Recognition** | **Details** |
 | :--- | :--- |
-| **Zonal 3rd Place** | KVS Hackathon 1.0 (Project AI Vidyasetu) — Realized January 2026 |
-| **Research Catalyst** | Developed multi-faceted health tracking infrastructure layers within standard client environments |
+| **🏅 Zonal 3rd Place** | KVS Hackathon 1.0 – AI Vidyasetu (Jan 2026) |
+| **📜 IIT Madras Certified** | Introduction to Data Science & AI (Apr 2025) |
+| **🎓 Academic Track** | 1st Year BTech CSE (Cyber Security) @ JUIT |
 
----
-
-<!-- 8. Certifications Section -->
-## 📜 Certifications
-
-### IIT Madras / NPTEL
-* <img src="https://shields.io" alt="IITM Certification" /> *(Issued April 2025)*
-
----
-
-<!-- 9. Coding Profiles Section -->
-## 💻 Coding Profiles
-
-<p align="left">
-  <a href="https://leetcode.com"><img src="https://shields.io" alt="LeetCode" /></a>
-  <a href="https://geeksforgeeks.org"><img src="https://shields.io" alt="GeeksforGeeks" /></a>
-  <a href="https://hackerrank.com"><img src="https://shields.io" alt="HackerRank" /></a>
 </p>
 
 ---
 
-<!-- 10. GitHub Analytics Section -->
-## 📊 GitHub Analytics
+## 🔗 Let's Connect
 
-<p align="left">
-  <img src="https://vercel.app" alt="GitHub Readme Stats" />
-  <img src="https://herokuapp.com" alt="Streak Stats" />
-</p>
-
-<p align="left">
-  <img src="https://vercel.app" alt="Top Languages" />
-</p>
-
----
-
-<!-- 11. GitHub Trophies Section -->
-## 🏆 GitHub Trophies
-
-<p align="left">
-  <img src="https://vercel.app" alt="GitHub Trophies" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/a-praneeth-sai-089023289/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/praneethsai050-cmd">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:praneethsai050@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-<!-- 12. Contribution Activity Section -->
-## 📈 Contribution Activity
-
-<p align="left">
-  <img src="https://vercel.app" alt="Contribution Activity Graph" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,27&height=100&section=footer" />
 </p>
 
----
-
-<!-- 13. Contribution Snake Section -->
-## 🐍 Contribution Snake
-
-<p align="left">
-  <img src="https://githubusercontent.com" alt="Contribution Snake Animation" />
+<p align="center">
+  <i>"Always learning, always building."</i>
 </p>
-
----
-
-<!-- 14. Current Focus Section -->
-## 🎯 Current Focus
-
-```yaml
-learning:
-  - Penetration Testing Frameworks
-  - Linux Kernel Hardening
-building:
-  - Automation scripts using secure Python protocols
-exploring:
-## Hi there 👋
-
-<!--
-**praneethsai050-cmd/praneethsai050-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
