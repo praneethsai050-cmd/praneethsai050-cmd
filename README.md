@@ -83,6 +83,15 @@ I am **A Praneeth Sai**, an engineering student specialized in **Cybersecurity a
 
 ---
 
+## 🐍 Contribution Snake
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/praneethsai050-cmd/praneethsai050-cmd/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/praneethsai050-cmd/praneethsai050-cmd/output/github-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/praneethsai050-cmd/praneethsai050-cmd/output/github-snake.svg" />
+  </picture>
+</p>
+
 ## 🔗 Let's Connect
 
 <p align="center">
@@ -105,13 +114,4 @@ I am **A Praneeth Sai**, an engineering student specialized in **Cybersecurity a
 
 <p align="center">
   <i>"Always learning, always building."</i>
-</p>
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/praneethsai050-cmd/praneethsai050-cmd/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/praneethsai050-cmd/praneethsai050-cmd/output/github-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/praneethsai050-cmd/praneethsai050-cmd/output/github-snake.svg" />
-  </picture>
 </p>
