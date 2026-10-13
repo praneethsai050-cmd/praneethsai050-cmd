@@ -121,7 +121,7 @@ I specialize in **blockchain protocols, biometric identity verification, penetra
 | **Smart India Hackathon 2026** | Ministry of Education & AICTE | **Team Leader (Team CYPHER-X)** • Problem Statement: `SIH26125` |
 | **KVS Hackathon 1.0** | Kendriya Vidyalaya Sangathan (Zonal) | **🏅 Zonal 3rd Place** (AI Vidyasetu Project) |
 | **Data Science & AI Certification** | IIT Madras (CODE) | **Certified** (8-Week Rigorous Curriculum) |
-| **B.Tech CSE (Cyber Security)** | JUIT Waknaghat, Solan | **1st Year Undergraduate** (Class of 2029) |
+| **B.Tech CSE (Cyber Security)** | JUIT Waknaghat, Solan | **1st Year Undergraduate** (Class of 2030) |
 
 ---
 
