@@ -9,6 +9,9 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/sponsors/praneethsai050-cmd">
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" />
+  </a>
   <a href="https://praneethsai050-cmd.github.io">
     <img src="https://img.shields.io/badge/Live_Portfolio-060810?style=for-the-badge&logo=googlechrome&logoColor=10B981&borderColor=10B981" />
   </a>
