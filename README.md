@@ -72,7 +72,8 @@ I specialize in **blockchain protocols, biometric identity verification, penetra
 
 | Project | Domain | Architecture & Highlights | Repository |
 | :--- | :--- | :--- | :--- |
-| **SecurePassGuard** | Security / Cryptography | Real-time password entropy scoring, zxcvbn heuristics, brute-force simulation, and breach-dictionary mitigation engine. | [View Code ↗](https://github.com/praneethsai050-cmd) |
+| **GhostChat** | E2EE / WebRTC / Privacy | Serverless, peer-to-peer ephemeral chat with ECDH P-256 key exchange, AES-256-GCM voice notes, MITM verification emojis, and 30s self-destruct. | [View Repo ↗](https://github.com/praneethsai050-cmd/GhostChat) |
+| **SecurePassGuard** | Security / Cryptography | Real-time password entropy scoring, zxcvbn heuristics, brute-force simulation, and breach-dictionary mitigation engine. | [View Repo ↗](https://github.com/praneethsai050-cmd/SecurePassGuard-) |
 | **SchoolSportsHub** | Full-Stack / Operations | Multi-school tournament matchmaking, real-time roster coordinator, and biometric health tracking modules. | [View Repo ↗](https://github.com/praneethsai050-cmd/SchoolSportsHub) |
 | **AI Vidyasetu / YuvaSetu** | AI / Mental Health | Real-time student mood & health analysis using computer vision and edge analytics. **Zonal 3rd Place @ KVS Hackathon 1.0**. | [View Code ↗](https://github.com/praneethsai050-cmd) |
 
