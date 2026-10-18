@@ -18,8 +18,8 @@
   <a href="https://youtube.com/@flixyte">
     <img src="https://img.shields.io/badge/YouTube-@flixyte-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="https://wa.me/918777679256?text=Hi%20Praneeth%2C%20saw%20your%20GitHub%20profile%20and%20wanted%20to%20connect!">
-    <img src="https://img.shields.io/badge/WhatsApp-+91_87776_79256-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="mailto:praneethsai050@gmail.com">
+    <img src="https://img.shields.io/badge/Email-praneethsai050@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/a-praneeth-sai-089023289/">
     <img src="https://img.shields.io/badge/LinkedIn-A_Praneeth_Sai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -157,9 +157,6 @@ I specialize in **blockchain protocols, biometric identity verification, penetra
 ## 📬 Direct Transmission Hub (Get in Touch)
 
 <p align="center">
-  <a href="https://wa.me/918777679256?text=Hi%20Praneeth%2C%20I%20saw%20your%20GitHub%20profile%20and%20would%20love%20to%20connect!">
-    <img src="https://img.shields.io/badge/WhatsApp-+91_87776_79256-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/a-praneeth-sai-089023289/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
